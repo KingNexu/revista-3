@@ -35,4 +35,8 @@
     "@tailwindcss/typography": "^0.5.13",
     "pagefind": "^1.1.0"
   }
+  "resolutions": {
+    "wrap-ansi": "7.0.0",
+    "string-width": "4.1.0"
+  }
 }
